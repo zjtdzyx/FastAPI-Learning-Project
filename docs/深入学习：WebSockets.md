@@ -295,3 +295,7 @@ async def chat(websocket: WebSocket, user: str):
 
 WebSockets 提供了强大的实时通信能力，使得构建实时应用变得更加简单高效。希望通过本次学习，您对 WebSockets 有了深入的理解，并能够在实际项目中应用。
 
+```
+
+```
+
